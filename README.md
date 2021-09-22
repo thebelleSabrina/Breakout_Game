@@ -11,9 +11,6 @@ Watch my [DEMO VIDEOS!](https://drive.google.com/drive/folders/1jqvdeKMXFZbKWbAq
 *[My Photoshop] (https://github.com/thebelleSabrina/My_Photoshop/tree/main/Photoshop)
 * image processing
 
-*[Breakout Game] (https://github.com/thebelleSabrina/Breakout_Game/tree/main/Breakout_game)
-* animation & game designing
-
 *[Name Popularity Searching System](https://github.com/thebelleSabrina/Name_Popularity_Searching_System/tree/main/name_searching_system)
 * data structure
 
